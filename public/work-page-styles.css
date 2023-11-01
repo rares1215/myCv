@@ -1,0 +1,50 @@
+
+.work-page-nav{
+    width: 100%;
+}
+
+.work-page-title {
+    color: white;
+    margin-top: 7rem;
+    text-align: center;
+}
+
+.work-page-container{
+    padding-top: 10rem;
+    margin-bottom: 5rem;
+}
+
+.work-page-img{
+    width: 75%;
+    overflow: hidden;
+    transition: transform 0.25s;
+}
+
+.work-page-img:hover{
+    transform: scale(1.1);
+}
+
+
+
+.work-page-links {
+    text-decoration: none;
+    margin-right: 3rem;
+}
+
+.work-links-title{
+    color: white;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.work-page-descripiton {
+    color:aliceblue;
+    padding-top: 1.4rem;
+}
+
+
+
+.work-page-button:hover {
+    opacity: 3;
+}
+
