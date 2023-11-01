@@ -15,8 +15,8 @@ export function Education() {
   });
 
   const now1 = 90;
-  const now2 = 75;
-  const now3 = 65;
+  const now2 = 50;
+  const now3 = 50;
   const now4 = 40;
 
   const dataBaseIcon = (
