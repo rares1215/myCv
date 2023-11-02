@@ -2,13 +2,13 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCircleArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { useNavigate } from "react-router-dom";
 import { Projects } from "./projects";
-import work1 from "../images/work1.png";
-import work2 from "../images/work2.png";
-import work3 from "../images/work3.png";
-import work4 from "../images/work4.png";
-import work5 from "../images/work5.png";
-import work6 from "../images/work6.png";
-import work7 from "../images/work7.png";
+import work1 from "../images/Work1.png";
+import work2 from "../images/Work2.png";
+import work3 from "../images/Work3.png";
+import work4 from "../images/Work4.png";
+import work5 from "../images/Work5.png";
+import work6 from "../images/Work6.png";
+import work7 from "../images/Work7.png";
 
 export function AllMyWork() {
   const arrow = <FontAwesomeIcon icon={faCircleArrowLeft} size="2xl" />;
