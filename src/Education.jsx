@@ -9,7 +9,7 @@ import { faCode } from "@fortawesome/free-solid-svg-icons";
 import { faPenFancy } from "@fortawesome/free-solid-svg-icons";
 import { faTerminal } from "@fortawesome/free-solid-svg-icons";
 import image1 from "./images/Education1.jpg";
-import image2 from "./images/work1.png";
+import image2 from "./images/Work1.png";
 export function Education() {
   useEffect(() => {
     Aos.init({ duration: 2000 });
