@@ -3,8 +3,8 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import Carousel from "react-bootstrap/Carousel";
 import { Col } from "react-bootstrap";
-import image1 from "./images/work1.png";
-import image2 from "./images/work2.png";
+import image1 from "./images/Work1.png";
+import image2 from "./images/Work2.png";
 
 export function Work() {
   useEffect(() => {
